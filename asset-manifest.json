@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/RichTextEditor/static/css/main.27950326.css",
+    "main.js": "/RichTextEditor/static/js/main.f1cf8434.js",
+    "static/js/453.cba17561.chunk.js": "/RichTextEditor/static/js/453.cba17561.chunk.js",
+    "index.html": "/RichTextEditor/index.html",
+    "main.27950326.css.map": "/RichTextEditor/static/css/main.27950326.css.map",
+    "main.f1cf8434.js.map": "/RichTextEditor/static/js/main.f1cf8434.js.map",
+    "453.cba17561.chunk.js.map": "/RichTextEditor/static/js/453.cba17561.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.27950326.css",
+    "static/js/main.f1cf8434.js"
+  ]
+}
